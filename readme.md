@@ -24,3 +24,4 @@ Add a reference
     Compile 'com.aiyaapp.aiya:AyShortVideoEffect:v4.0.0'
     Compile 'com.wuwang.aavt:aavt:a0.2.0'
 In addition, aiyagift, shadereffect and beauty libraries rely on the aavt project (com.wuwang.aavt:aavt:a0.2.9, rendering framework) for rendering.
+
